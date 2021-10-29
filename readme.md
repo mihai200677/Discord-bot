@@ -15,3 +15,4 @@
 >Token can be found on [Developer Portal](https://discord.com/developers/applications)
 >If you dont have a aplication you need to create one
 
+>If you want you can join my [discord server](discord.gg/KgdCrc9wSG)
