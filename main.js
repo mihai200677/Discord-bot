@@ -7,21 +7,17 @@ client.on('ready', () => {
 
 
 
-
 // WORKING STATUS FOR PUT DOWN: STREAMING, WATCHING, CUSTOM_STATUS, PLAYING, COMPETING
 client.on('ready', () => {
   client.user.setActivity('PUT STATUS HERE',{ type: 'PLAYING' });
    console.log("Activity set work")
     });
 
-
 //HERE YOU CAN SET IDLE ETC
 client.on('ready', () => {
   client.user.setStatus('online');
     console.log("Status work")
     });
-
-
 
 
 
