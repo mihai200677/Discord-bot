@@ -7,3 +7,11 @@
     });``` what do you want to set
     
 >### You can also set with ```STREAMING, WATCHING, CUSTOM_STATUS, PLAYING, COMPETING``` 
+
+
+## Logging in
+
+>Working code for logging in is `client.login('token')`
+>Token can be found on [Developer Portal](https://discord.com/developers/applications)
+>If you dont have a aplication you need to create one
+
