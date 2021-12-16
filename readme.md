@@ -18,6 +18,9 @@ If you get like these your instalation is redy
 >Download `main.js` and paste it in your folder. 
 >After that open your code editor and put your token in the right location in `main.js`
 
+## Step three
+
+>Open terminal and use `node main.js`
 
 # Discord bot pre-created
 
