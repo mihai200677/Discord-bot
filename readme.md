@@ -42,4 +42,9 @@ If you get like these your instalation is redy
 
 ## My social media
 
->My [instagram](https://instagram.com/mihai200677)
+[Instagram](https://instagram.com/mihai200677)
+[Facebook](https://www.facebook.com/mihai.munteanu1902)
+[TikTok](https://www.tiktok.com/@mihai200677?lang=en)
+[Spotify](https://open.spotify.com/user/vgrkgeyexdb402tkb68qvoh71)
+[Twitch](https://www.twitch.tv/mihai200677)
+[Twitter](https://twitter.com/mihai200677)
