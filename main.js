@@ -13,18 +13,12 @@ client.on('ready', () => {
 
 
 
-// WORKING STATUS FOR PUT DOWN: STREAMING, WATCHING, CUSTOM_STATUS, PLAYING, COMPETING
 client.on('ready', () => {
-  client.user.setActivity('Made by Made by mihai ᴷˣ#4328',{ type: 'PLAYING' });
-   console.log("Activity set work")
+  client.user.setActivity("Made by mihai ᴷˣ#4328", {
+    type: "STREAMING",
+    url: "https://twitch.tv/mihai200677"
 });
-
-//HERE YOU CAN SET IDLE ETC
-client.on('ready', () => {
-  client.user.setStatus('online');
-    console.log("Status work")
-    });
-
+});
 
 
 client.login('Ur token here');
