@@ -14,7 +14,7 @@ client.on('ready', () => {
 
 
 client.on('ready', () => {
-  client.user.setActivity("Made by mihai ᴷˣ#4328", {
+  client.user.setActivity("Made by mihai ᴿᴳ#4328", {
     type: "STREAMING",
     url: "https://twitch.tv/mihai200677"
 });
